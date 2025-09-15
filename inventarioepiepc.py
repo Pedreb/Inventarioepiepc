@@ -7,7 +7,7 @@ from typing import List, Dict, Optional
 
 # Configuração da página
 st.set_page_config(
-    page_title="Sistema de Inventário",
+    page_title="Sistema de Inventário - Rezende Energia",
     page_icon="📋",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -784,4 +784,5 @@ def tela_relatorios():
 
 
 if __name__ == "__main__":
+
     main()
